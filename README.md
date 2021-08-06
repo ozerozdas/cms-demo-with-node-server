@@ -4,7 +4,6 @@ Hello, I created this project for NodeJs api with Laravel.<br />
 You can use these installation steps.
 
 ## Installation
-------------
 Create a <b>.env</b> file in the customer-management-server folder. 
 
     APP_PORT=3000
@@ -26,6 +25,5 @@ Now, you can start laravel project :smile:<br />
 ```
 
 ## Note
-------------
 I used 3000 port for NodeJs server, don't change this! <br />
 API Link: https://127.0.0.1:3000/api
