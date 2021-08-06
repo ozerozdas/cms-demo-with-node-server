@@ -19,9 +19,17 @@ You must run <b>npm install</b> in the customer-management-server folder.<br />
 ```
     $ cd customer-management-server && npm install
 ```
-Now, you can start laravel project :smile:<br />
+For run NodeJs server:
 ```
-    $ cd customer-management-app && php artisan serve
+    $ npm start
+```
+Now, you can run composer update for Laravel project. <br />
+```
+    $ cd customer-management-app && composer update
+```
+For run Laravel PHP server:
+```
+    $ php artisan serve
 ```
 
 ## Note
